@@ -35,7 +35,7 @@ The project demonstrates how AI can support business analysis while following pr
 
 ### 1. Executive Overview
 
-![Executive Overview](screenshots/01-executive-overview.png)
+![Executive Overview](Power BI Dashboard/Executive Overview.png)
 
 ### 2. Profitability Analysis
 
