@@ -43,7 +43,7 @@ The project demonstrates how AI can support business analysis while following pr
 
 ### 3. Customer & Regional Insights
 
-![Customer and Regional Insights](screenshots/03-customer-regional-insights.png)
+![Customer & Regional Insights](<Power BI Dashboard/Customer & Regional Insights.png>)
 
 ## 📈 KPI Verification Results
 
