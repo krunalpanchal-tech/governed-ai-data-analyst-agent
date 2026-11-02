@@ -39,7 +39,7 @@ The project demonstrates how AI can support business analysis while following pr
 
 ### 2. Profitability Analysis
 
-![Profitability Analysis](screenshots/02-profitability-analysis.png)
+![Customer & Regional Insights](<Power BI Dashboard/Profitability Analysis.png>)
 
 ### 3. Customer & Regional Insights
 
